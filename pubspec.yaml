@@ -58,6 +58,7 @@ dependencies:
   supercharged:
   url_launcher:
   firebase_storage:
+  cached_network_image:
   
 
 
